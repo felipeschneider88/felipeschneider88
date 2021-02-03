@@ -1,4 +1,4 @@
-### Hi there, I'm [Felipe Schneider!](http://blog.includeware.info)  :flag-uy: 👋
+### Hi there, I'm [Felipe Schneider!](http://blog.includeware.info)  👋
 
 <a href="https://twitter.com/felipes88">
   <img align="left" alt="Felipe Schneider | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
