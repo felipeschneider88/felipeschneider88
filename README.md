@@ -5,7 +5,7 @@
 <a href="https://twitter.com/felipes88">
   <img align="left" alt="felipe schneider | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/felipeschneideruy/">
+<a href="https://linkedin.com/in/felipeschneideruy/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
