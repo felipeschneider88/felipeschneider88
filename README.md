@@ -15,6 +15,7 @@
 
 **Some  Personal Stuffs about me:**
 - 🔭 I’m currently working on a simple [FullStack App](https://github.com/felipeschneider88/myFirstFullStackApp) to teach about design patterns and C# coding
+- I'm participating on [sysarmy-uy](https://github.com/sysarmy-uruguay/) and [datasaturdat](https://github.com/sqlcollaborative/DataSaturdays) comunities 
 - 🌱 I’m currently learning [cockroack DB](https://github.com/felipeschneider88/CockroachDBFullStackApp) following the [cockroachdb-for-python-developers](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) course
 - 👯 I’m looking to collaborate on project related to DB engines and query improvment
 - 😄 Pronouns: He/Him
