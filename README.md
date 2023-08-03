@@ -3,10 +3,9 @@
 
 
 <a href="https://twitter.com/felipes88">
-  <img align="left" alt="felipe schneider | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  Twitter
 </a>
-<a href="https://linkedin.com/in/felipeschneideruy/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://linkedin.com/in/felipeschneideruy/">LinkedIn
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=felipeschneider88.felipeschneider88)
